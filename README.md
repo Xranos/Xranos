@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I’m an undergraduate Information Systems student interested in web development and data-driven systems. I learn primarily through hands-on projects, focusing on system design, backend logic, and continuous improvement of my technical fundamentals.</p>
+<p align="left">I’m an undergraduate Information Systems student with a strong interest in web development and system design. I enjoy learning by building projects, exploring how applications work end-to-end, and continuously strengthening my technical foundation through hands-on practice..</p>
 
 ###
 
